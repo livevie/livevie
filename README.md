@@ -1,8 +1,8 @@
-<h3 align="center">👋  Hi there, I'm Manuela, UI/UX engineer & digital nerd to the core.</h3>
+<h3 align="center">👋  Hi there, I'm Manu, UI/UX engineer & digital nerd to the core.</h3>
 <p align="center">
-  <a href="https://mab.leancoders.dev/">Website</a> •
-  <a href="https://twitter.com/livevie_">Twitter</a>
+  <a href="https://mab-projects-com">Personal Site</a> •
+  <a href="https://www.linkedin.com/in/manuela-abdalla-8870881bb/">Linkedin</a>
 </p>
 
 ---
-✨  I design websites to transform business experiences and to improve people’s online appearance. I analyse and define business solutions with the help of creative design.
+✨ I conjure up user friendly designs and efficient code to boost business wizardry and amplify online charisma. With a splash of creativity and a dash of analysis, I redefine digital landscapes, one byte and pixel at a time.
