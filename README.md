@@ -1,6 +1,6 @@
 <h3 align="center">👋  Hi there, I'm Manu, UI/UX engineer & digital nerd to the core.</h3>
 <p align="center">
-  <a href="https://mab-projects-com">Personal Site</a> •
+  <a href="https://mab-projects.com">Personal Site</a> •
   <a href="https://www.linkedin.com/in/manuela-abdalla-8870881bb/">Linkedin</a>
 </p>
 
